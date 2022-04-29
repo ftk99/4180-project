@@ -26,7 +26,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-i can put code here and call it a day
+****************** put code here ****************
 
 
 [Link](url) and ![Image](src)
